@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (3.4.2)
+  - EasyMapping (0.16.2):
+    - EasyMapping/Core (= 0.16.2)
+  - EasyMapping/Core (0.16.2)
+  - IQKeyboardManager (4.0.4)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SVProgressHUD (2.0.3)
+  - SwiftHEXColors (1.0.4)
+  - TSCurrencyTextField (0.1.0):
+    - TSCurrencyTextField/Core (= 0.1.0)
+  - TSCurrencyTextField/Core (0.1.0)
+  - UIImageView-Letters (1.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4.2)
+  - EasyMapping (= 0.16.2)
+  - IQKeyboardManager (= 4.0.4)
+  - SDWebImage (= 3.7.5)
+  - SVProgressHUD (= 2.0.3)
+  - SwiftHEXColors (= 1.0.4)
+  - TSCurrencyTextField (= 0.1.0)
+  - UIImageView-Letters (= 1.1.4)
+
+SPEC CHECKSUMS:
+  Alamofire: 6aa33201d20d069e1598891cf928883ff1888c7a
+  EasyMapping: 7d519910862b8aa7484527eb129d95d3cd2dcf02
+  IQKeyboardManager: 4a6f83b540283c2645aaeba2bd8dc0f09b5c77f8
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftHEXColors: b0ecc7bd83a1aa2e1956f9ba51f55ebb2bcf86ef
+  TSCurrencyTextField: 03f9d4d263d617d1f0e034e4ace12febcfa6fe48
+  UIImageView-Letters: f62db28076797adf3560ab7410647dc6899b9eef
+
+PODFILE CHECKSUM: c83208b688b56135fca97d2efe0e63dd0cebe9a9
+
+COCOAPODS: 1.0.1
